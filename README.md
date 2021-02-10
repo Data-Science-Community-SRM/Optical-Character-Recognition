@@ -2,8 +2,8 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center">  Readme File of the GUI provided by streamlit  </h2>
+	<h4 align="center">  This project aims to convert any text from an image into a notepad  <h4>
 </p>
 
 ---
