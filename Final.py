@@ -52,7 +52,7 @@ def home_page():
     st.text("\n")
     st.text("\n")
     st.text("\n")
-    #st.image('Home page.jpg',use_column_width=True)
+    st.image('Home page.jpg',use_column_width=True)
     st.image('Header.png',use_column_width=True)
     
     
@@ -85,7 +85,7 @@ def project_description():
              It requires one data stage for character recognition, then the second stage to fulfil any letters, it wasn’t insured in, by letters that can match the word or sentence context.
              #### The better the image quality (size, contrast, lightning) the better the recognition result.
              """)
-    #st.image('Preprocessing.png',use_column_width=True)
+    st.image('Preprocessing.png',use_column_width=True)
     st.text("\n")
     st.write("""
              ### Step 3. Text Recognition 
@@ -97,7 +97,7 @@ def project_description():
                  5. The typography is common (so that it is easier to read) \n
             #### After all these conditions are met, we can convert the image to text with high accuracy.
              """)
-    #st.image('Conversion to text.png', use_column_width=True)
+    st.image('Conversion to text.png', use_column_width=True)
     st.text("\n")
     st.write("""
              ### Step 4. Testing
@@ -127,26 +127,25 @@ def how_to_run():
              The image captured can be anything with English text (scanned documents, camera images or PDFs)
                  
              """)
-    #st.image('how to run 2a.jpg', use_column_width=True)
+    st.image('how to run 2a.jpg', use_column_width=True)
     st.write("""
              ### Step 2: Upload the from your device
              Upload the image either by clicking on "Browse files" and selecting an image or by dragging the image directly.
              Note that this file can only be of the file types: jpg, png, jpeg
                  
              """)
-    #im= Image.open('how to run 3.jpg')
-    #st.image(im, use_column_width=True)
+    st.image('how to run 3.jpg', use_column_width=True)
     st.write("""
              ### Step 3: Download the image
              The image is now successfully converted from image to text. Click on the button to download the text file as a text file (notepad).
                  
              """)
-    #st.image('how to run 4.png', use_column_width=True)
-    #st.image('how to run 2b.jpg', use_column_width=True)
+    st.image('how to run 4.png', use_column_width=True)
+    st.image('how to run 2b.jpg', use_column_width=True)
     st.text("\n")
     st.text("\n")
     st.text("\n")
-    #st.image('How to run1.jpeg', use_column_width=True)
+    st.image('How to run1.jpeg', use_column_width=True)
     st.write("""
              ## Try it yourself on the next page!
              """)
