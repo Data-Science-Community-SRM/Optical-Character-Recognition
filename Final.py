@@ -53,7 +53,7 @@ def home_page():
     st.text("\n")
     st.text("\n")
     #st.image('Home page.jpg',use_column_width=True)
-    
+    st.image('Header.png',use_column_width=True)
     
     
     
