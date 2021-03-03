@@ -13,10 +13,10 @@
 ## Preview
 - Add pictures or important highlights from the Project (if any)
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [ ]  < Home Page >
+- [ ]  < How to Run the Project >
+- [ ]  < Upload and Download >
+- [ ]  < The Developers >
 
 <br>
 
