@@ -145,7 +145,6 @@ def how_to_run():
     st.text("\n")
     st.text("\n")
     st.text("\n")
-    st.image('How to run1.jpeg', use_column_width=True)
     st.write("""
              ## Try it yourself on the next page!
              """)
@@ -177,6 +176,7 @@ def upload_image():
         st.text("\n")
         st.text("\n")
         st.text("\n")
+        st.image('How to run1.jpeg', use_column_width=True)
         
        ##Upload from desktop
         st.text("\n")
