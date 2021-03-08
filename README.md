@@ -2,8 +2,9 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> OCR </h2>
+	<h4 align="center"> Image --> Text Conversion
+Optical character recognition (OCR) is the conversion of images to text. In order to extract and repurpose data from scanned documents, camera images or PDFs, you need an OCR software that would single out letters on the image thus enabling you to access and edit the original document. <h4>
 </p>
 
 ---
@@ -12,11 +13,13 @@
 
 ## Preview
 - Add pictures or important highlights from the Project (if any)
+- <img src="https://github.com/Data-Science-Community-SRM/template/blob/master/PROJECT_OVERVIEW.png?raw=true" width=80%/>
+- <img src="https://github.com/Data-Science-Community-SRM/template/blob/master/PROJECT_OVERVIEW2.png?raw=true" width=80%/>
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [ ]  < HOME >
+- [ ]  < PROJECT DESCRIPTION >
+- [ ]  < UNSTRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES >
+- [ ]  < STRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES >
 
 <br>
 
@@ -46,7 +49,7 @@
 
 <td>
 
-John Doe
+Shubham Gore
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -62,7 +65,7 @@ John Doe
 
 <td>
 
-John Doe
+Shaswat Srivastava
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -79,7 +82,7 @@ John Doe
 
 <td>
 
-John Doe
+Ved Dubey
 
 <p align="center">
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
@@ -91,6 +94,22 @@ John Doe
 </a>
 </p>
 </td>
+
+<td>
+
+Dhruv Kuncha
+
+<p align="center">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/person2">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
 </tr>
   </table>
   
