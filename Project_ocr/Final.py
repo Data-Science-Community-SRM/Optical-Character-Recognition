@@ -197,7 +197,7 @@ def upload_image():
         st.text("\n")
         st.image('How to run1.jpeg', use_column_width=True)
         
-       ##Upload from desktop
+       ##Upload Unstructured from desktop
         st.text("\n")
         st.write("### Upload the Unstructured image")
         
@@ -211,20 +211,21 @@ def upload_image():
             file_details = {"FileName":img.name,"FileType":img.type,"FileSize":img.size}
             st.write(file_details)
     
-            # " img " is the output variable
+            # " img " is the output variable for Unstructured
             
             st.text("\n")
             st.text("\n")
             st.text("\n")
             st.write("### Download the converted image")
             st.text("\n")
-            #s = st.text_input('Enter text here') #s = output function of functions Eg: s = image_to_text(img)
+            #s is the output text which is to be converted into notepad (.txt) file
             s = outputfunc(img.name)
             st.write(s)
             if st.button('Download Unstructured image as a text (.txt) file'):
                     tmp_download_link = download_link(s, 'Image_to_text.txt', 'Click here to download the file')
                     st.markdown(tmp_download_link, unsafe_allow_html=True)
         
+        ##Upload Structured from desktop
         st.text("\n")
         st.write("### Upload the Structured image")
         img1 = st.file_uploader("Upload Structured", type=["jpeg", "png", "jpg"], accept_multiple_files=False)
@@ -237,20 +238,20 @@ def upload_image():
             file_details = {"FileName":img1.name,"FileType":img1.type,"FileSize":img1.size}
             st.write(file_details)
     
-            # " img " is the output variable
+            # " img1 " is the output variable
             
             st.text("\n")
             st.text("\n")
             st.text("\n")
             st.write("### Download the converted image")
             st.text("\n")
-            #s = st.text_input('Enter text here') #s = output function of functions Eg: s = image_to_text(img)
+            #s1 is the output text which is to be converted into notepad (.txt) file
             s1 = structured(img1.name)
             
-            st.write(s1) # Remove this line once replaced with actual function
+            st.write(s1) 
             
             if st.button('Download the Structured image as a text (.txt) file'):
-                tmp_download_link = download_link(s, 'Image_to_text.txt', 'Click here to download the file')
+                tmp_download_link = download_link(s1, 'Image_to_text.txt', 'Click here to download the file')
                 st.markdown(tmp_download_link, unsafe_allow_html=True)
 
 
