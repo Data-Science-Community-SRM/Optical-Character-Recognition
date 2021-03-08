@@ -3,8 +3,8 @@
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
 	<h2 align="center"> OCR </h2>
-	<h4 align="center"> Image --> Text Conversion
-Optical character recognition (OCR) is the conversion of images to text. In order to extract and repurpose data from scanned documents, camera images or PDFs, you need an OCR software that would single out letters on the image thus enabling you to access and edit the original document. <h4>
+	<h4 align="center"> Image --> Text Conversion <h4>
+<h4 align="center">Optical character recognition (OCR) is the conversion of images to text. In order to extract and repurpose data from scanned documents, camera images or PDFs, you need an OCR software that would single out letters on the image thus enabling you to access and edit the original document. <h4>
 </p>
 
 ---
@@ -12,7 +12,7 @@ Optical character recognition (OCR) is the conversion of images to text. In orde
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Preview
-- Add pictures or important highlights from the Project (if any)
+- Important highlights from the Project
 - <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/PROJECT_OVERVIEW.png" width=80%/>
 - <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/PROJECT_OVERVIEW2.png" width=80%/>
 ## Functionalities
@@ -20,6 +20,7 @@ Optical character recognition (OCR) is the conversion of images to text. In orde
 - [ ]  PROJECT DESCRIPTION
 - [ ]  UNSTRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES
 - [ ]  STRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES
+- [ ]  DOWNLOADING THE TEXT FILE IN NOTEPAD
 
 <br>
 
