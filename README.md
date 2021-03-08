@@ -13,13 +13,13 @@ Optical character recognition (OCR) is the conversion of images to text. In orde
 
 ## Preview
 - Add pictures or important highlights from the Project (if any)
-- <img src="https://github.com/Data-Science-Community-SRM/template/blob/master/PROJECT_OVERVIEW.png?raw=true" width=80%/>
-- <img src="https://github.com/Data-Science-Community-SRM/template/blob/master/PROJECT_OVERVIEW2.png?raw=true" width=80%/>
+- <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/PROJECT_OVERVIEW.png" width=80%/>
+- <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/PROJECT_OVERVIEW2.png" width=80%/>
 ## Functionalities
-- [ ]  < HOME >
-- [ ]  < PROJECT DESCRIPTION >
-- [ ]  < UNSTRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES >
-- [ ]  < STRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES >
+- [ ]  HOME
+- [ ]  PROJECT DESCRIPTION
+- [ ]  UNSTRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES
+- [ ]  STRUCTURED TEXT DETECTION AND RECOGNITION IN IMAGES
 
 <br>
 
@@ -71,8 +71,8 @@ Shaswat Srivastava
 <img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person2">
+<a href = "https://github.com/shaas1704"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/shaswat-srivastava-03a67118b/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
