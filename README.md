@@ -48,7 +48,7 @@ pip install <package name>==<version number>
 ```bash
 Step 1: Download the zip folder and unzip
 Step 2: Save the image you want to convert to text in the folder "Project_ocr"
-Step 3: Open Anaconda prompt and type "cd" followed by path of the folder [Eg: C:\Users\Desktop\OCR\Optical-Character-Recognition]
+Step 3: Open Anaconda prompt and type "cd" followed by path of Project_ocr folder [Eg: C:\Users\Desktop\OCR\Optical-Character-Recognition\Project_ocr]
 Step 4: In Anaconda prompt type "streamlit run Final.py"
 Step 5: A browser will open where you can finally run the project!
 ```
