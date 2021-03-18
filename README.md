@@ -40,7 +40,7 @@
 
 * < directions to install > 
 ```bash
-< insert code >
+pip install <package name>==<version number>
 ```
 
 * < directions to execute >
