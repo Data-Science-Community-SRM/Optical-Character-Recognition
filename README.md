@@ -27,9 +27,16 @@
 
 ## Instructions to run
 
-* Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+* Pre-requisites: (To be installed manually on Anaconda prompt or Command prompt)
+	-  pytesseract==0.3.7
+	-  imutils==0.5.4
+	-  matplotlib==3.3.4
+	-  numpy==1.20.1
+	-  pandas==1.2.3
+	-  Pillow==8.1.2
+	-  scipy==1.6.1
+	-  streamlit==0.78.0
+	-  cv2==4.5.1
 
 * < directions to install > 
 ```bash
