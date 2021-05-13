@@ -64,7 +64,7 @@ Step 5: A browser will open where you can finally run the project!
 Shubham Gore
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/Project_ocr/self.jpeg"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
