@@ -68,8 +68,11 @@ def decode_predictions(scores, geometry):
 
 # In[5]:
 
+filen = "frozen_east_text_detection.pb"
+path = os.path.abspath(filen)
+args = {"image":"../input/text-detection/example-images/Example-images/ex24.jpg", "east":os.path.abspath(filen), "min_confidence":0.5, "width":320, "height":320,"padding":0.0}
 
-args = {"image":"../input/text-detection/example-images/Example-images/ex24.jpg", "east":r"C:\Users\Acer\Desktop\New folder\Project_ocr/frozen_east_text_detection.pb", "min_confidence":0.5, "width":320, "height":320,"padding":0.0}
+#args = {"image":"../input/text-detection/example-images/Example-images/ex24.jpg", "east":r"C:\Users\Acer\Desktop\New folder\Project_ocr/frozen_east_text_detection.pb", "min_confidence":0.5, "width":320, "height":320,"padding":0.0}
 
 
 # In[6]:
