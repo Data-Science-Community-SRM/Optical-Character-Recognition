@@ -53,6 +53,9 @@ Step 4: In Anaconda prompt type "streamlit run Final.py"
 Step 5: A browser will open where you can finally run the project!
 ```
 
+## How to run:
+- <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/Project_ocr/GIF1.gif" width=80%/>
+- <img src="https://github.com/Data-Science-Community-SRM/Optical-Character-Recognition/blob/master/Project_ocr/GIF2.gif" width=80%/>
 ## Contributors
 
 <table>
