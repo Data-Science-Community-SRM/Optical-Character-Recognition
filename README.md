@@ -5,6 +5,7 @@
 	<h2 align="center"> OCR </h2>
 	<h4 align="center"> Image --> Text Conversion <h4>
 <h4 align="center">Optical character recognition (OCR) is the conversion of images to text. In order to extract and repurpose data from scanned documents, camera images or PDFs, you need an OCR software that would single out letters on the image thus enabling you to access and edit the original document. <h4>
+	<h4 align="center"> https://ocr-dsc-app.herokuapp.com/ <h4>
 </p>
 
 ---
